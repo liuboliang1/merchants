@@ -1,4 +1,4 @@
-package com.lbl.passbook.merchants;
+package com.lbl.passbook;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
